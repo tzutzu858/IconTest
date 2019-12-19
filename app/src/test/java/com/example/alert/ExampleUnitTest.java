@@ -1,4 +1,4 @@
-package com.example.icontest;
+package com.example.alert;
 
 import org.junit.Test;
 

@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">IconTest</string>
+    <string name="app_name">albert</string>
+    <string name="exit">我要離開</string>
+    <string name="fruit">你喜歡的水果</string>
+
+    <string name="u_eat">你今天吃的是</string>
+    <string name="ok">確定</string>
+    <string name="input_ur_name">請輸入你想吃的餐點</string>
+    <string name="hi">你點的餐是</string>
+
+
+
+
+
 </resources>

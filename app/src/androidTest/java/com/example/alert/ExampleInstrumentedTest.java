@@ -1,4 +1,4 @@
-package com.example.icontest;
+package com.example.alert;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.icontest", appContext.getPackageName());
+        assertEquals("com.example.alert", appContext.getPackageName());
     }
 }
